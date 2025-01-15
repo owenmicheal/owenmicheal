@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimbowa&label=Profile%20views&color=0e75b6&style=flat" alt="kimbowa" /> </p>
 
-- 🔭 I’m currently working on [IMDBuganda](http://imdbuganda.najjisoft.com)
+- 🔭 I’m currently working on [IMDBuganda](https://ugimbdb.najjisoft.com/)
 
 - 🌱 I’m currently learning **Next.js (Official recommended framework for ReactJs)**
 
