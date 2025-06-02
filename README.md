@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kimbowa Owen Micheal</h1>
+<h1 align="center">Hi 👋, I'm Kimbowa Owen</h1>
 <h3 align="center">I am a passionate and results-driven Software Developer</h3>
 
 
