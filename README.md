@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Kimbowa Owen</h1>
-<h3 align="center">🚀 Passionate Software Developer | JavaScript • React • Tailwind • TypeScript</h3>
+<h3 align="center">Passionate Software Developer | React • Next.js • NestJS • AWS IoT • PostgreSQL • Tailwind CSS</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kimbowa&label=Profile%20views&color=0e75b6&style=flat" alt="kimbowa" />
@@ -10,11 +10,11 @@
 ### 👨‍💻 About Me  
 
 - 🔭 Currently building **[NajjiCast](https://github.com/owenmicheal/screen-recording)** — a modern screen recording and sharing app.  
-- 🌱 Learning **PostgreSQL** and exploring its ORM & cloud ecosystem: _Drizzle, Prisma, Xata, Supabase_.  
-- 💬 Ask me about **JavaScript, React, Tailwind CSS, TypeScript, or Vector Illustration**.  
-- ⚡ Fun fact: I’m a **digital artist** — I create vector portraits in my free time 🎨.  
+- 🌱 Expanding my expertise in **AWS IoT, NestJS, PostgreSQL, and cloud-based integrations**.  
+- 💬 Ask me about **React, Next.js, Tailwind, NestJS, or connecting IoT devices to the cloud**.  
+- ⚡ Fun fact: I’m also a **digital artist** who creates vector portraits 🎨.  
 - 📫 Reach me at **owenmicheal3rd@gmail.com**  
-- 🧠 Currently diving deeper into backend and DevOps to become a full-stack powerhouse.  
+- 🧠 Currently focused on mastering **scalable backend architecture and DevOps automation**.  
 
 ---
 
@@ -37,32 +37,41 @@
 ### 🧰 Tech Stack  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,postgres,prisma,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,aws,postgres,tailwind,ts,js,git,github,figma,vscode" />
 </p>
 
 ---
 
-### 📈 GitHub Stats  
+### 📈 GitHub Streak  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=owenmicheal&show_icons=true&theme=tokyonight" alt="Kimbowa's GitHub Stats" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=owenmicheal&theme=tokyonight" alt="GitHub Streak" height="160" />
 </p>
 
 ---
 
-### ✨ Featured Project  
+### ✨ Featured Projects  
 
-🧩 **NajjiCast** – A modern screen recording app built for creators and developers.  
-🔗 [View Repository](https://github.com/owenmicheal/screen-recording)  
+#### 🧩 [NajjiCast](https://github.com/owenmicheal/screen-recording)  
+A modern, web-based **screen recording app** built with React and TypeScript.  
+Designed for content creators and developers to record, preview, and share recordings seamlessly.
+
+---
+
+#### 🛰️ [Kinematrix.tech](https://kinematrix.tech)  
+A **sophisticated IoT dashboard** for real-time sensor monitoring featuring:  
+- 3D data visualization  
+- Motion tracking  
+- Advanced analytics and device insights  
+Built using **Next.js, AWS IoT Core, and PostgreSQL** for a seamless cloud-to-device experience.
 
 ---
 
 ### 🎨 Side Passion  
 
-I also craft **vector portraits and digital art** — blending creativity with code.  
-Check out my art portfolio on [Dribbble](https://dribbble.com/kimbowa).  
+When I’m not coding, I’m sketching digital **vector portraits** and exploring UI design ideas.  
+Check out my art on [Dribbble](https://dribbble.com/kimbowa).  
 
 ---
 
-⭐️ _“Clean code, clean design, clear purpose — that’s the way I build.”_  
+• _“Building clean systems, beautiful interfaces, and connecting the digital with the physical.”_
