@@ -28,7 +28,7 @@ please improve more
 ### 📈 GitHub Streak  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owenmicheal&theme=tokyonight" alt="GitHub Streak" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=owenmicheal&theme=radical" alt="GitHub Streak" height="160" />
 </p>
 
 ---
