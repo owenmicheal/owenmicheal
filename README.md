@@ -1,28 +1,23 @@
-<h1 align="center">👋 Hi, I'm Kimbowa Owen</h1>
-<h3 align="center">
-Software Engineer • Frontend & Backend • IoT & Cloud Systems
-</h3>
+please improve more
+<h1 align="center">👋 Hey there, I'm Kimbowa Owen</h1>
+<h3 align="center">Passionate Software Developer | React • Next.js • NestJS • AWS IoT • PostgreSQL • Tailwind CSS</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kimbowa&label=Profile%20views&color=0e75b6&style=flat" alt="kimbowa profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kimbowa&label=Profile%20views&color=0e75b6&style=flat" alt="kimbowa" />
 </p>
 
 ---
 
-## 👨‍💻 About Me  
+### 👨‍💻 About Me  
 
-I’m a **passionate software engineer** focused on building **scalable web platforms, clean user interfaces, and real-time IoT systems** that bridge hardware and the cloud.
+- 🔭 Currently building **[NajjiCast](https://github.com/owenmicheal/screen-recording)** — a modern screen recording and sharing app.  
+- 🌱 Expanding my expertise in **AWS IoT, NestJS, PostgreSQL, and cloud-based integrations**.  
+- 💬 Ask me about **React, Next.js, Tailwind, NestJS, or connecting IoT devices to the cloud**.  
+- ⚡ Fun fact: I’m also a **digital artist** who creates vector portraits 🎨.  
+- 📫 Reach me at **owenmicheal3rd@gmail.com**  
+- 🧠 Currently focused on mastering **scalable backend architecture and DevOps automation**.  
 
-- 🔭 Currently building **[NajjiCast](https://github.com/owenmicheal/screen-recording)** — a modern screen-recording and sharing platform.  
-- 🌱 Deepening my skills in **AWS IoT, NestJS, PostgreSQL, and cloud-native architectures**.  
-- 💬 Ask me about **React, Next.js, Tailwind CSS, NestJS, REST APIs, or IoT-to-cloud integrations**.  
-- 🧠 Strong interest in **scalable backend design, DevOps automation, and system reliability**.  
-- ⚡ Fun fact: I’m also a **digital artist** creating vector portraits 🎨.  
-- 📫 Reach me at **owenmicheal3rd@gmail.com**
-
----
-
-## 🧰 Tech Stack  
+### 🧰 Tech Stack  
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,aws,postgres,tailwind,ts,js,git,github,figma,vscode" />
@@ -30,7 +25,7 @@ I’m a **passionate software engineer** focused on building **scalable web plat
 
 ---
 
-## 📈 GitHub Activity  
+### 📈 GitHub Streak  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=owenmicheal&theme=tokyonight" alt="GitHub Streak" height="160" />
@@ -38,27 +33,15 @@ I’m a **passionate software engineer** focused on building **scalable web plat
 
 ---
 
-## ✨ Featured Project  
+### ✨ Featured Projects  
 
-### 🛰️ [Kinematrix.tech](https://kinematrix.tech)  
-A **production-grade IoT monitoring platform** built for real-time mechanical and sensor data analysis.
-
-**Key features**
-- Real-time device telemetry  
-- 3D sensor & motion visualization  
-- Digital twin concepts  
-- Advanced analytics & insights  
-- Secure, role-based dashboard access  
-
-**Tech stack**
-- **Next.js** (frontend & UI)  
-- **AWS IoT Core** (device connectivity)  
-- **PostgreSQL** (data persistence & analytics)
-
-Designed for **performance, scalability, and real-world industrial use cases**.
+#### 🛰️ [Kinematrix.tech](https://kinematrix.tech)  
+A **sophisticated IoT dashboard** for real-time sensor monitoring featuring:  
+- 3D data visualization  
+- Motion tracking  
+- Advanced analytics and device insights  
+Built using **Next.js, AWS IoT Core, and PostgreSQL** for a seamless cloud-to-device experience.
 
 ---
 
-<p align="center">
-  <em>“Building clean systems, intuitive interfaces, and software that connects the digital with the physical.”</em>
-</p>
+• _“Building clean systems, beautiful interfaces, and connecting the digital with the physical.”_
