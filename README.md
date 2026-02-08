@@ -1,4 +1,3 @@
-please improve more
 <h1 align="center">👋 Hey there, I'm Kimbowa Owen</h1>
 <h3 align="center">Passionate Software Developer | React • Next.js • NestJS • AWS IoT • PostgreSQL • Tailwind CSS</h3>
 
@@ -21,14 +20,6 @@ please improve more
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,aws,postgres,tailwind,ts,js,git,github,figma,vscode" />
-</p>
-
----
-
-### 📈 GitHub Streak  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=owenmicheal&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
 </p>
 
 ---
