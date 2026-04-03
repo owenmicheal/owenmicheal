@@ -26,7 +26,7 @@
 
 ### ✨ Featured Projects  
 
-#### 🛰️ [Kinematrix.tech](https://kinematrix.tech)  
+#### 🛰️ [Kinematrix.org](https://kinematrix.org)  
 A **sophisticated IoT dashboard** for real-time sensor monitoring featuring:  
 - 3D data visualization  
 - Motion tracking  
