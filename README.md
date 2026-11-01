@@ -1,38 +1,59 @@
-<h1 align="center">👋 Hey there, I'm Kimbowa Owen</h1>
-<h3 align="center">Passionate Software Developer | React • Next.js • NestJS • AWS IoT • PostgreSQL • Tailwind CSS</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kimbowa&label=Profile%20views&color=0e75b6&style=flat" alt="kimbowa" />
-</p>
+# Kimbowa Owen
 
----
+**Software Engineer | Full-Stack Development | Cloud & IoT**
 
-### 👨‍💻 About Me  
+Building practical software across web, mobile, and connected systems.
 
-- 🔭 Currently building **[NajjiCast](https://github.com/owenmicheal/screen-recording)** — a modern screen recording and sharing app.  
-- 🌱 Expanding my expertise in **AWS IoT, NestJS, PostgreSQL, and cloud-based integrations**.  
-- 💬 Ask me about **React, Next.js, Tailwind, NestJS, or connecting IoT devices to the cloud**.  
-- ⚡ Fun fact: I’m also a **digital artist** who creates vector portraits 🎨.  
-- 📫 Reach me at **owenmicheal3rd@gmail.com**  
-- 🧠 Currently focused on mastering **scalable backend architecture and DevOps automation**.  
+Kampala, Uganda
 
-### 🧰 Tech Stack  
+[Portfolio](https://kimbowaowen.site) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/kimbowa-owen-64b720257/) &nbsp;·&nbsp; [Email](mailto:owenmicheal3rd@gmail.com)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,aws,postgres,tailwind,ts,js,git,github,figma,vscode" />
-</p>
+</div>
 
 ---
 
-### ✨ Featured Projects  
+### About
 
-#### 🛰️ [Kinematrix.org](https://kinematrix.org)  
-A **sophisticated IoT dashboard** for real-time sensor monitoring featuring:  
-- 3D data visualization  
-- Motion tracking  
-- Advanced analytics and device insights  
-Built using **Next.js, AWS IoT Core, and PostgreSQL** for a seamless cloud-to-device experience.
+I'm a software engineer working across frontend development, backend systems, and cloud infrastructure. I build applications that turn complex requirements into clear, usable products, with experience spanning fintech, healthcare, business websites, and IoT.
 
----
+I enjoy working on responsive interfaces, APIs, data-driven dashboards, and systems that connect software with the physical world.
 
-• _“Building clean systems, beautiful interfaces, and connecting the digital with the physical.”_
+### Selected Work
+
+| Project | Overview | Website |
+| :--- | :--- | :--- |
+| **PadaPesa** | International money transfer experiences and financial coaching across web and mobile. | [padapesa.com](https://padapesa.com) |
+| **OceanzHub** | Maritime data integration, software services, and digital products. | [oceanzhub.com](https://oceanzhub.com) |
+| **Kinematrix** | IoT-based vehicle suspension monitoring, sensor telemetry, and interactive analytics. | [kinematrix.org](https://kinematrix.org) |
+| **Skin Dictionary Uganda** | Dermatology information, skincare shopping, and clinic-focused digital experiences. | [skindictionary.ug](https://skindictionary.ug) |
+| **Danisha Accountancy** | Business website for an accountancy practice. | [danishaaccountancy.com](https://www.danishaaccountancy.com) |
+
+For more work and project details, visit [kimbowaowen.site](https://kimbowaowen.site).
+
+### Technology
+
+<div align="center">
+
+**Web & Mobile**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,flutter" alt="Next.js, React, TypeScript, Tailwind CSS, Flutter" />
+
+React Native · Expo · NestJS
+
+**Cloud, Data & Tools**
+
+<img src="https://skillicons.dev/icons?i=aws,postgres,mongodb,docker,github,linux" alt="AWS, PostgreSQL, MongoDB, Docker, GitHub, Linux" />
+
+AWS IoT Core · Node.js · Git
+
+</div>
+
+**Currently exploring:** Kubernetes, AI integrations, and DevOps automation.
+
+### Connect
+
+I'm open to software engineering opportunities, technical collaborations, and interesting product challenges.
+
+[Website](https://kimbowaowen.site) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/kimbowa-owen-64b720257/) &nbsp;·&nbsp; [Email](mailto:owenmicheal3rd@gmail.com)
