@@ -2,34 +2,29 @@
 
 # Kimbowa Owen
 
-**Software Engineer · Full-Stack · Cloud & IoT**
+**Software Engineer · Full-Stack Developer**
 
-Building web, mobile, and cloud-connected products from Kampala, Uganda.
+Building web, mobile, and cloud-connected products in Kampala, Uganda.
 
-[Portfolio](https://kimbowaowen.site) · [LinkedIn](https://www.linkedin.com/in/kimbowa-owen-64b720257/) · [Email](mailto:owenmicheal3rd@gmail.com)
+[Portfolio](https://www.kimbowaowen.site) · [LinkedIn](https://www.linkedin.com/in/kimbowa-owen-64b720257/) · [Email](mailto:owenmicheal3rd@gmail.com)
 
 </div>
 
-### About
+## About
 
-I develop practical software across fintech, healthcare, and IoT, combining thoughtful interfaces with backend services and cloud infrastructure.
+I build practical software across fintech, healthcare, and IoT—from user-facing interfaces to backend services and cloud infrastructure.
 
-### Selected Projects
+## Selected Projects
 
-| Project | What it does | Live |
-| --- | --- | --- |
-| **PadaPesa** | Cross-platform money transfers and financial coaching | [Visit](https://padapesa.com) |
-| **OceanzHub** | Maritime data and digital solutions | [Visit](https://oceanzhub.com) |
-| **Kinematrix** | Vehicle sensor monitoring and telemetry analytics | [Visit](https://kinematrix.org) |
-| **Skin Dictionary Uganda** | Dermatology information and skincare commerce | [Visit](https://skindictionary.ug) |
-| **Danisha Accountancy** | Accountancy business website | [Visit](https://www.danishaaccountancy.com) |
+- **[PadaPesa](https://padapesa.com)** — International money transfers and financial coaching.
+- **[OceanzHub](https://oceanzhub.com)** — Maritime data and digital solutions.
+- **[Kinematrix](https://kinematrix.org)** — Vehicle sensor monitoring and telemetry analytics.
+- **[Skin Dictionary Uganda](https://skindictionary.ug)** — Dermatology information and skincare commerce.
+- **[Danisha Accountancy](https://www.danishaaccountancy.com)** — Website for an accountancy business.
 
-### Tech Stack
+## Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,nestjs,postgres,mongodb,aws,docker,kubernetes,github,linux&perline=7" alt="Next.js, React, TypeScript, Tailwind CSS, Node.js, NestJS, PostgreSQL, MongoDB, AWS, Docker, Kubernetes, GitHub and Linux" />
-</p>
-
-<p align="center">
-  React Native · Expo · Flutter · AWS IoT Core · AI integrations
-</p>
+**Frontend:** Next.js, React, TypeScript, Tailwind CSS  
+**Backend & data:** Node.js, NestJS, PostgreSQL, MongoDB  
+**Cloud & infrastructure:** AWS, AWS IoT Core, Docker, Kubernetes, Linux  
+**Mobile & integrations:** React Native, Expo, Flutter, AI integrations
