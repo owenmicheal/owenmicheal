@@ -4,7 +4,7 @@
 
 **Software Engineer · Full-Stack Developer**
 
-Building web, mobile, and cloud-connected products in Kampala, Uganda.
+Building web, mobile, and cloud-connected products.
 
 [Portfolio](https://www.kimbowaowen.site) · [LinkedIn](https://www.linkedin.com/in/kimbowa-owen-64b720257/) · [Email](mailto:owenmicheal3rd@gmail.com)
 
@@ -12,9 +12,11 @@ Building web, mobile, and cloud-connected products in Kampala, Uganda.
 
 ## About
 
-I build practical software across fintech, healthcare, and IoT—from user-facing interfaces to backend services and cloud infrastructure.
+I'm a software engineer working across frontend development, backend systems, and cloud infrastructure. I build applications that turn complex requirements into clear, usable products, with experience spanning fintech, healthcare, business websites, and IoT.
 
-## Selected Projects
+I enjoy working on responsive interfaces, APIs, data-driven dashboards, and systems that connect software with the physical world.
+
+## Featured Projects
 
 - **[PadaPesa](https://padapesa.com)** — International money transfers and financial coaching.
 - **[OceanzHub](https://oceanzhub.com)** — Maritime data and digital solutions.
