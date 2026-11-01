@@ -27,9 +27,9 @@ I enjoy working on responsive interfaces, APIs, data-driven dashboards, and syst
 ## Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,nestjs,postgres,mongodb,aws,docker,kubernetes,github,linux&perline=7" alt="Next.js, React, TypeScript, Tailwind CSS, Node.js, NestJS, PostgreSQL, MongoDB, AWS, Docker, Kubernetes, GitHub, Linux" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,nestjs,flutter,postgres,mongodb,aws,docker,kubernetes,github,linux&perline=7" alt="Next.js, React, TypeScript, Tailwind CSS, Node.js, NestJS, Flutter, PostgreSQL, MongoDB, AWS, Docker, Kubernetes, GitHub, Linux" />
 </p>
 
 <p align="center">
-  React Native · Expo · Flutter · AWS IoT Core · AI integrations
+  Next.js · AWS IoT Core · Flutter · React Native · PostgreSQL · MongoDB
 </p>
