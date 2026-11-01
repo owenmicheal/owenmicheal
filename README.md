@@ -16,7 +16,7 @@ I'm a software engineer working across frontend development, backend systems, an
 
 I enjoy working on responsive interfaces, APIs, data-driven dashboards, and systems that connect software with the physical world.
 
-## Featured Projects
+## Selected Featured Projects
 
 - **[PadaPesa](https://padapesa.com)** — International money transfers and financial coaching.
 - **[OceanzHub](https://oceanzhub.com)** — Maritime data and digital solutions.
@@ -26,7 +26,10 @@ I enjoy working on responsive interfaces, APIs, data-driven dashboards, and syst
 
 ## Technologies
 
-**Frontend:** Next.js, React, TypeScript, Tailwind CSS  
-**Backend & data:** Node.js, NestJS, PostgreSQL, MongoDB  
-**Cloud & infrastructure:** AWS, AWS IoT Core, Docker, Kubernetes, Linux  
-**Mobile & integrations:** React Native, Expo, Flutter, AI integrations
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,nestjs,postgres,mongodb,aws,docker,kubernetes,github,linux&perline=7" alt="Next.js, React, TypeScript, Tailwind CSS, Node.js, NestJS, PostgreSQL, MongoDB, AWS, Docker, Kubernetes, GitHub, Linux" />
+</p>
+
+<p align="center">
+  React Native · Expo · Flutter · AWS IoT Core · AI integrations
+</p>
